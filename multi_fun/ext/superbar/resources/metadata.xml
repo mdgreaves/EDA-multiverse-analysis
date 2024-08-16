@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addOn>
+  <identifier>46ae5078-61c8-460c-ae58-397907ccfee9</identifier>
+  <displayType>Collection</displayType>
+  <translatedDisplayType>
+    <en_US>Collection</en_US>
+    <es_ES>Collection</es_ES>
+    <es_MX>Collection</es_MX>
+    <ja_JP>コレクション</ja_JP>
+    <ko_KR>컬렉션</ko_KR>
+    <zh_CN>集合</zh_CN>
+  </translatedDisplayType>
+  <name>superbar</name>
+  <author>Scott Lowe</author>
+  <version>1.5.0.0</version>
+  <downloadUrl>https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/46ae5078-61c8-460c-ae58-397907ccfee9/8fb3a094-7321-fd64-7309-b41a9d518dff/packages/zip?src=addons_ml_desktop_install&amp;profile_id=25160812&amp;license=342764&amp;release_family=R2021b</downloadUrl>
+  <licenseUrl>https://addons.mathworks.com/registry/v1/46ae5078-61c8-460c-ae58-397907ccfee9/1.5.0.0/-/license</licenseUrl>
+  <previewImageUrl>https://www.mathworks.com/responsive_image/160/120/0/0/0/cache/matlabcentral/mlc-downloads/downloads/submissions/57499/versions/13/screenshot.png</previewImageUrl>
+  <releaseNotesUrl>https://www.mathworks.com/add-ons/46ae5078-61c8-460c-ae58-397907ccfee9/8fb3a094-7321-fd64-7309-b41a9d518dff/releaseNotes</releaseNotesUrl>
+  <installationFolder>Collections</installationFolder>
+</addOn>
