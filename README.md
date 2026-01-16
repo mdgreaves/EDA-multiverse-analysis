@@ -91,9 +91,9 @@ Again, model fit statistics are organised per EDA response estimation method. Th
 
 ## Visualisations
 
-The visualisations operate on the *untransformed* output (obtained using `transformation = "none"`). If the relevant output is available (i.e., the user has followed the example usage above), then the visualisation-related scripts and functions saved in **`multi_viz/`** can be properly evaluated. All code related to Figures 2-4 and Table 1 are provided in this directory.
+The visualisations operate on the *untransformed* output (obtained using `transformation = "none"`). If the relevant output is available (i.e., the user has followed the example usage above), then the visualisation-related scripts and functions saved in **`multi_viz/`** can be properly evaluated. All code related to Figures 2–4 and Table 1 are provided in this directory.
 
-## ⚠️ Post-release correction (Session 2 data)
+## ⚠️ Post-release correction
 An issue was identified in the original **`multi_data/`** release: Session 2 (`*_S2*`) model structures were inadvertently duplicated from Session 1. This was corrected on **16 Jan 2026**. The correction affects only Session 2 model files (e.g., `model_*_S2.mat`) and does not change any Session 1 files.
 
 If you cloned or downloaded this repository **before 16 Jan 2026**, please pull the latest version (or re-download) to ensure you are using the corrected Session 2 data.
